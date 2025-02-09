@@ -1,4 +1,6 @@
 from file_09_02 import say_hello
+from figures import circle_area
+from figures.circle import circle_area
 
 
 def main(name: str) -> None:
